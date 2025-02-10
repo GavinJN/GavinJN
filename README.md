@@ -10,8 +10,8 @@
   <br>
   
   [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer?color=cyan)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/braydoncoyer?color=00ff00)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/GavinJN)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/cbornet?color=00ff00)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/jasminaaa20)](https://badges.pufler.dev)
 
 </div>
 
@@ -72,8 +72,8 @@ if __name__ == '__main__':
 ---
 
 ### 📈 GitHub Chronicles
-![](https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&theme=dark&hide_title=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=braydoncoyer&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=cbornet&show_icons=true&theme=dark&hide_title=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cbornet&theme=dark)
 
 ---
 
