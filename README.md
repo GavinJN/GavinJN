@@ -1,17 +1,17 @@
 <!-- Tip: Use GitHub’s dark theme for the best experience of this README -->
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/matrix.gif" width="600" height="300">
+  <img src="https://raw.githubusercontent.com/GavinJN/GavinJN/main/matrix.gif" width="600" height="300">
   <br>
   <br>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+%3CYour+Name%3E;But+call+me+%3Cnickname%3E;10+years+in+the+trenches;Full-stack+%26+then+some;Code+poet+%26+problem+slayer)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+%3CGavin%3E;But+call+me+%3CSweety%3E;10+years+in+the+trenches;Full-stack+%26+then+some;Code+poet+%26+problem+slayer)
   
   <br>
   
-  [![Visits Badge](https://badges.pufler.dev/visits/yourusername/yourusername?color=cyan)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/yourusername?color=00ff00)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/yourusername)](https://badges.pufler.dev)
+  [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer?color=cyan)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/braydoncoyer?color=00ff00)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/GavinJN)](https://badges.pufler.dev)
 
 </div>
 
@@ -64,16 +64,16 @@ if __name__ == '__main__':
 ---
 
 ### 🚀 Highlights
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cool-repo-1&theme=dark)](https://github.com/yourusername/cool-repo-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cool-repo-2&theme=dark)](https://github.com/yourusername/cool-repo-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchain&theme=dark)](https://github.com/yourusername/cool-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=solana-labs&repo=solana&theme=dark)](https://github.com/yourusername/cool-repo-2)
 
-*And [42 more repositories](https://github.com/yourusername?tab=repositories) you probably won’t check out anyway.*
+*And [50 more repositories](https://github.com/braydoncoyer?tab=repositories) you probably won’t check out anyway.*
 
 ---
 
 ### 📈 GitHub Chronicles
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_title=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&theme=dark&hide_title=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=braydoncoyer&theme=dark)
 
 ---
 
